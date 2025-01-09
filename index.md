@@ -1,9 +1,6 @@
 ---
-layout: home
----
----
 title: "6402 Project"
-layout: default
+layout: home
 ---
 
 # 6402 Project  
