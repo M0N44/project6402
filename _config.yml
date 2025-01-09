@@ -1,6 +1,6 @@
 title: 6402 project # name of the site
 author: Wikimedia Colombia # name of site's author
-email: johana.botero@wikimediacolombia.org # email of site's author
+email: johana.botero[at]wikimediacolombia.org # email of site's author
 url: https://M0N44.github.io # root address of the site
 baseurl: "/project6402" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
