@@ -43,7 +43,7 @@ We’re looking for developers, web designers, researchers, and storytellers to 
 ## Get in Touch  
 Have questions or want to collaborate? Reach out to us:
 
-- **Email:** [johana.botero@wikimediacolombia.org](mailto:johana.botero[at]wikimediacolombia.org)  
+- **Email:** [johana.botero@wikimediacolombia.org](mailto:johana.botero[zt]wikimediacolombia.org)  
 - **GitHub:** [6402 Project Repository](https://github.com/your-repo-link)
 
 ---
