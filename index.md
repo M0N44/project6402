@@ -36,14 +36,14 @@ Our digital memorial will include:
 ## How You Can Help  
 We’re looking for developers, web designers, researchers, and storytellers to join us. Whether you're passionate about databases, front-end design, or creating meaningful content, there’s a role for you.
 
-[Reach out to help us make this vision a reality!](mailto:johana.botero@wikimediacolombia.org)
+[Reach out to help us make this vision a reality!](mailto:johana.botero[at]wikimediacolombia.org)
 
 ---
 
 ## Get in Touch  
 Have questions or want to collaborate? Reach out to us:
 
-- **Email:** [johana.botero@wikimediacolombia.org](mailto:johana.botero@wikimediacolombia.org)  
+- **Email:** [johana.botero@wikimediacolombia.org](mailto:johana.botero[at]wikimediacolombia.org)  
 - **GitHub:** [6402 Project Repository](https://github.com/your-repo-link)
 
 ---
