@@ -2,7 +2,7 @@
 title: "6402 Project"
 layout: default
 ---
-[Español](#Español)
+[Español](#Espanol)
 
 # 6402 Project  
 **Honoring Stories of the Disappeared**
@@ -53,7 +53,7 @@ Have questions or want to collaborate? Reach out to us:
 
 ---
 
-## Español
+## Espanol
 
 ---
 
